@@ -4,6 +4,6 @@ A multithreaded application that Sniffs all the network packets to make a list o
 run <code> sudo python3 main.py </code>
 ##Screen Shots
 ![Alt text](ScreenShots/all.png?raw=true "All")
-![Alt text](ScreenShots/Unsafe.png?raw=true "Unsafe")
+![Alt text](ScreenShots/unsafe.png?raw=true "Unsafe")
 ## ToDo
 Improve the accuracy of the machine learning model. Highly incorrect as of now. #OneNighterProject
